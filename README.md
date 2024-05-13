@@ -18,9 +18,22 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
+</br></br>
+
+#### 🤙🏼 Contact
+<a href="https://rizin.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23E3963E?style=for-the-badge&logo=Mail.ru" alt="Portfolio Badge"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/rizinpp/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>&nbsp;
+<a href="https://twitter.com/rizxn_00/">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" alt="Twitter Badge"/>
+</a>
+
+
 
 </div>
-
 
 <!--
 **RizinGH/RizinGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
