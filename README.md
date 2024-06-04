@@ -20,16 +20,18 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
 </br></br>
 
-#### 🤙🏼 Contact
+#### Contact
+<div style={{display:'flex', gap:'20px'}}>
 <a href="https://rizin.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%23E3963E?style=for-the-badge&logo=Mail.ru" alt="Portfolio Badge"/>
-</a>&nbsp;
+</a>
 <a href="https://www.linkedin.com/in/rizinpp/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>&nbsp;
+</a>
 <a href="https://twitter.com/rizxn_00/">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" alt="Twitter Badge"/>
 </a>
+</div>
 
 
 
