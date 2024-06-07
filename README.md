@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZhZjZqeG1yNmhqZG9zeW13OGpqamNjZnRjMHVzMnRkYm1rcXR2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtsJ4X8u65O6cHwFyf/giphy.gif" width=100 height=60 alt="Hello">
 </img>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizinGH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizxn00&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### 🔧 Tools Known  
