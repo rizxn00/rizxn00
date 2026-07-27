@@ -8,7 +8,7 @@
 
 #### Contact
 <div style={{display:'flex', gap:'20px'}}>
-<a href="https://rizin.vercel.app">
+<a href="https://rizxn.in">
     <img src="https://img.shields.io/badge/Portfolio-%23E3963E?style=for-the-badge&logo=Mail.ru" alt="Portfolio Badge"/>
 </a>
 <a href="https://www.linkedin.com/in/rizinpp/">
